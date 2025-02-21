@@ -51,6 +51,7 @@ Each training method has its own configuration file in the `configs/` directory:
 
 ## Project Structure
 
+```
 ├── configs/
 │ ├── lora_config.yaml
 │ ├── reward_config.yaml
@@ -66,6 +67,7 @@ Each training method has its own configuration file in the `configs/` directory:
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Requirements
 
